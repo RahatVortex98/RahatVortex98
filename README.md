@@ -2,7 +2,7 @@
 <h3 align="center">Code Craftsman and Open Source Enthusiast</h3>
 <image align="right" alt="Vortex" width="400" src="https://camo.githubusercontent.com/d4fd0e2496199c890485eb47c5cf57b419d1de9a33e88a6b9087a6ee9062e591/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65372f33342f66316537333466396361646538366665373337613961613430346164353637372e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahatvortex98&label=Profile%20views&color=0e75b6&style=flat" alt="rahatvortex98" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahatvortex98" alt="rahatvortex98" /></a> </p>
 
