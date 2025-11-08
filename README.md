@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Currently Focusing On
+<h2>🚀 Currently Focusing On</h2>
 
 * **🔭 Working on:** My [eShop](https://github.com/RahatVortex98/eshop) project — building a modern e-commerce platform.
 * **💡 Goal:** Deepening my skills in microservices architecture using DRF and Laravel.
@@ -25,7 +25,7 @@
 
 ---
 
-<h2 align="left">🛠️ Languages & Tools:</h2>
+<h2 align="left">🛠️ Core Tech Stack:</h2>
 <p align="left">
     <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
@@ -61,18 +61,24 @@
 
 ---
 
-<h2 align="left">📈 GitHub Stats</h2>
+<h2 align="left">🔥 Consistent Contribution & Community Impact:</h2>
 
-<p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=rahatvortex98&show_icons=true&locale=en&theme=radical&hide_border=true" alt="rahatvortex98 GitHub Stats" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahatvortex98&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="rahatvortex98 Top Languages" />
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=rahatvortex98&theme=radical&hide_border=true" alt="rahatvortex98 GitHub Streak" />
+</p>
+<br>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rahatvortex98&show_icons=true&locale=en&theme=radical&hide_border=true&show=issues,prs,contribs" alt="rahatvortex98 GitHub Stats" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahatvortex98&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="rahatvortex98 Top Languages" />
 </p>
 
-<br clear="both"> <br>
+<br clear="both">
 
 ---
 
-<h2 align="left">🤝 Connect with Me:</h2>
+<h2 align="left">🤝 Connect & Collaborate:</h2>
 <p align="left">
     **📧 Email:** `r072islam@gmail.com`
     </p>
