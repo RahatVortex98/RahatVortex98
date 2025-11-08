@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm Raisul Islam Rahat</h1>
 <h3 align="center">
-    A **Versatile Full-Stack Developer** specializing in robust and scalable web applications.
-    My expertise spans the **Python/Django/DRF** ecosystem and the **PHP/Laravel** framework,
+    A Versatile Full-Stack Developer specializing in robust and scalable web applications.
+    My expertise spans the Python/Django/DRF ecosystem and the PHP/Laravel framework,
     dedicated to architecting powerful, production-ready solutions.
 </h3>
 
@@ -21,7 +21,7 @@
 
 * **🔭 Working on:** My [eShop](https://github.com/RahatVortex98/eshop) project — building a modern e-commerce platform.
 * **💡 Goal:** Deepening my skills in microservices architecture using DRF and Laravel.
-* **🔗 Portfolio:** Explore my work and experience on my official site: [(https://raisul11.pythonanywhere.com/)
+* **🔗 Portfolio:** Explore my work and experience on my official site: (https://rahatvortex98.github.io/portfolio/)
 
 ---
 
@@ -80,5 +80,5 @@
 
 <h2 align="left">🤝 Connect & Collaborate:</h2>
 <p align="left">
-    **📧 Email:** `r072islam@gmail.com`
+    **📧 Email: r072islam@gmail.com
     </p>
