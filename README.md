@@ -18,9 +18,15 @@
   <img src="https://streak-stats.demolab.com?user=RahatVortex98&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" />
 </div>
 
-<h2 align="center">🔥 Top Languages & Coding Activity</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahatVortex98&layout=compact&theme=radical&hide_border=true&langs_count=12" alt="Top Languages" />
+<h2 align="center">🔥 Language & Coding Activity</h2>
+<div width="100%" align="center">
+  <a href="https://github.com/RahatVortex98">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RahatVortex98&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RahatVortex98&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahatVortex98&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+    </picture>
+  </a>
 </div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
