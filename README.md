@@ -14,19 +14,40 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahatVortex98&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=495" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=RahatVortex98&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=495" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=RahatVortex98&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" />
 </div>
 
 <h2 align="center">🔥 Language & Coding Activity</h2>
-<div width="100%" align="center">
-  <a href="https://github.com/RahatVortex98">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RahatVortex98&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RahatVortex98&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahatVortex98&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-    </picture>
-  </a>
+
+<div align="center">
+  <p>Most used languages based on my public contributions (as seen on GitHub):</p>
+  
+  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,html,css,postgres,mysql,docker,git,github,postman,aws,linux&perline=7" alt="Primary Tech Stack" />
+  
+  <br><br>
+  
+  <table align="center" style="border:none; background:transparent;">
+    <tr>
+      <td><strong>Python / Django</strong></td>
+      <td>~38% • Core for REST APIs, eCommerce, full-stack apps</td>
+    </tr>
+    <tr>
+      <td><strong>PHP / Laravel</strong></td>
+      <td>~12% • High-performance platforms, RBAC systems, admin dashboards</td>
+    </tr>
+    <tr>
+      <td><strong>JavaScript / HTML / CSS</strong></td>
+      <td>Frontend + responsive UIs (Bootstrap, Blade)</td>
+    </tr>
+    <tr>
+      <td><strong>Databases</strong></td>
+      <td>PostgreSQL & MySQL • Query optimization & schema design</td>
+    </tr>
+  </table>
+
+  <br>
+  <small>Percentages approximate from GitHub language stats • Focus on backend + scalable systems</small>
 </div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -35,22 +56,37 @@
 </div>
 
 <h2 align="center">📌 Featured Projects</h2>
+<h2 align="center">📌 Featured Projects</h2>
+
 <div align="center">
 
-  <a href="https://flexwear-shop.onrender.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahatVortex98&repo=flexwear-shop&theme=radical&hide_border=true&show_owner=true" />
+  <!-- FlexWear -->
+  <a href="https://flexwear-shop.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&label=FlexWear%20%E2%80%93%20Full-Stack%20E-Commerce" alt="FlexWear" />
   </a>
-  <a href="https://github.com/RahatVortex98/All_Well">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahatVortex98&repo=All_Well&theme=radical&hide_border=true&show_owner=true" />
+  <p><strong>High-performance e-commerce platform</strong><br>Laravel 12 • PostgreSQL • Docker • Complex variants (sizes/stock) • RBAC Admin • Dynamic cart</p>
+
+  <!-- All_Well (Online Store) -->
+  <a href="https://github.com/RahatVortex98/All_Well" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Repo-3670A0?style=for-the-badge&logo=python&logoColor=white&label=All_Well%20%E2%80%93%20Django%20eCommerce" alt="All_Well" />
   </a>
-  <a href="https://github.com/RahatVortex98/HR-Management-System-HRMS-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahatVortex98&repo=HR-Management-System-HRMS-&theme=radical&hide_border=true&show_owner=true" />
+  <p><strong>Client work • AJAX cart & COD checkout</strong><br>Django • PostgreSQL • Responsive Bootstrap 5 UI • Product management</p>
+
+  <!-- HRMS -->
+  <a href="https://github.com/RahatVortex98/HR-Management-System-HRMS-" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Repo-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&label=HRMS%20%E2%80%93%20Human%20Resource%20Management" alt="HRMS" />
   </a>
-  <a href="https://github.com/RahatVortex98/MedConnect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahatVortex98&repo=MedConnect&theme=radical&hide_border=true&show_owner=true" />
+  <p><strong>Full-stack HR system with RBAC</strong><br>Laravel • MySQL • Leave/Payroll/Attendance • Employee self-service portal • Admin dashboard</p>
+
+  <!-- MedConnect -->
+  <a href="https://github.com/RahatVortex98/MedConnect" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Repo-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&label=MedConnect%20%E2%80%93%20Healthcare%20Platform" alt="MedConnect" />
   </a>
+  <p><strong>Appointment & consultation system</strong><br>Laravel • MySQL • Secure patient/doctor management • RBAC Admin • Real-time status (Approve/Cancel)</p>
 
 </div>
+
+<br>
 
 <h2 align="center">🏆 Certifications</h2>
 <div align="center">
