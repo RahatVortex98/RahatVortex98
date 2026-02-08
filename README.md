@@ -4,8 +4,7 @@
 
 <h3>Backend Engineer specializing in Python/Django and PHP/Laravel</h3>
 
-- 👨‍💼 **Backend Developer** at **Noetic IT** (10/2024 - 11/2025)[cite: 13, 19].
-- [cite_start]🏫 **B.Sc. in Computer Science & Engineering** from [**United International University**](https://www.uiu.ac.bd/)[cite: 33, 35].
+- 👨‍💼 **Backend Developer** 
 - [cite_start]📚 Proficient in **API optimization, PostgreSQL/MySQL, and Docker containerization**[cite: 10].
 - [cite_start]🌐 Visit my [**Portfolio**](https://github.com/RahatVortex98) to explore my scalable cloud deployments[cite: 5, 11].
 - [cite_start]📧 Reach me via [**Email**](mailto:r072islam@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/rahatvortex98)[cite: 3, 7].
