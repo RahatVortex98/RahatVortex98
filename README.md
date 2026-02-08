@@ -12,10 +12,18 @@
 
 <hr>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Activity Overview</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=RahatVortex98&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=495" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=RahatVortex98&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Contributions-540%2B-informational?style=flat-square&logo=github&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Streak-7%20days-brightgreen?style=flat-square" alt="Streak" />
+  <img src="https://img.shields.io/badge/Top%20Language-Python-blue?style=flat-square&logo=python" alt="Top Language" />
+  <img src="https://img.shields.io/badge/Repositories-97+-success?style=flat-square&logo=github" alt="Repos" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <p><strong>Active since 2023 • Focus on scalable backend & full-stack projects</strong></p>
+  <p>Regular commits in Python/Django, PHP/Laravel, REST APIs, Docker deployments</p>
 </div>
 
 <h2 align="center">🔥 Language & Coding Activity</h2>
