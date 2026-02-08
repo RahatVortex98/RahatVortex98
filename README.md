@@ -63,7 +63,7 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,python,django,postgres,mysql,docker,git,github,postman,aws,render,js,html,css,bootstrap,linux" />
 </div>
 
-<h2 align="center">📌 Featured Projects</h2>
+
 <h2 align="center">📌 Featured Projects</h2>
 
 <div align="center">
