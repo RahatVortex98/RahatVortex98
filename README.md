@@ -1,71 +1,67 @@
-## 👋 Hi, I'm [MD. Raisul Islam](https://raisulislam.onrender.com)
+<img align="right" width="35%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-A **Backend / Full-Stack Software Engineer** from **Bangladesh 🇧🇩**
+# Hi👋, I'm [MD. RAISUL ISLAM](https://github.com/RahatVortex98)
 
-- 👨‍💻 Backend Developer at **Noetic IT**
-- 💼 Former Jr. Laravel Developer at **Himal Tech**
-- 🎓 B.Sc in Computer Science & Engineering — United International University
-- 🔥 Specialized in Django, Laravel, REST APIs & Databases
-- 🌐 Portfolio: https://raisulislam.onrender.com
-- 📧 Email: r072islam@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/md-raisul-islam-085592200/
-- 📍 Bangladesh
+<h3>Backend Engineer specializing in Python/Django and PHP/Laravel</h3>
 
----
+- 👨‍💼 **Backend Developer** at **Noetic IT** (10/2024 - 11/2025)[cite: 13, 19].
+- [cite_start]🏫 **B.Sc. in Computer Science & Engineering** from [**United International University**](https://www.uiu.ac.bd/)[cite: 33, 35].
+- [cite_start]📚 Proficient in **API optimization, PostgreSQL/MySQL, and Docker containerization**[cite: 10].
+- [cite_start]🌐 Visit my [**Portfolio**](https://github.com/RahatVortex98) to explore my scalable cloud deployments[cite: 5, 11].
+- [cite_start]📧 Reach me via [**Email**](mailto:r072islam@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/rahatvortex98)[cite: 3, 7].
+- [cite_start]📍 Based in **Dhaka, Bangladesh**[cite: 36].
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahatVortex98&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahatVortex98&theme=tokyonight" />
-</p>
+<hr>
 
----
+<h2 align="center">📊 GitHub Stats</h2>
 
-## 🔥 Language & Coding Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahatVortex98&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <a href="https://github.com/RahatVortex98">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=RahatVortex98&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/RahatVortex98">
+    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=RahatVortex98&theme=radical&hide_border=true" alt="Streak Stats" />
+  </a>
+</div>
 
----
+<h2 align="center">🔥 Language & Coding Activity</h2>
 
-## 📌 Pinned Repositories
-- 🔹 [FlexWear – Full-Stack E-Commerce](https://flexwear-shop.onrender.com/)
-- 🔹 [HR Management System (HRMS)](https://github.com/RahatVortex98/HR-Management-System-HRMS-)
-- 🔹 [MedConnect – Healthcare Platform](https://github.com/RahatVortex98/MedConnect)
-- 🔹 [All Well – Django eCommerce App](https://github.com/RahatVortex98/All_Well)
+<div align="center">
+  <a href="https://github.com/RahatVortex98">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahatVortex98&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
 
----
+<h2 align="center">🛠️ Tech Stack</h2>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RahatVortex98&theme=onedark&no-frame=true&row=1" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,py,django,postgres,mysql,docker,aws,git,github,postman,linux,js,html,css,bootstrap" />
+  </a>
+</div>
 
----
+<h2 align="center">📌 Pinned Projects</h2>
 
-## 🛠️ Tech Stack
+<div align="center">
+ <a href="https://github.com/RahatVortex98/FlexWear-Shop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahatVortex98&repo=All_Well&theme=radical&hide_border=true" alt="Online Store" />
+  </a>
+  <a href="https://github.com/RahatVortex98/HR-Management-System-HRMS-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahatVortex98&repo=HR-Management-System-HRMS-&theme=radical&hide_border=true" alt="HRMS System" />
+  </a>
+</div>
 
-### 💻 Programming & Frameworks
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-FF1709?style=flat&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<h2 align="center">🏆 Certifications</h2>
 
-### 🗄️ Database & APIs
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat)
+<div align="center">
+  [cite_start]<strong>The Ultimate Django Series (Code with Mosh)</strong> [cite: 62] | 
+  [cite_start]<strong>Complete SQL Mastery (Code with Mosh)</strong> [cite: 64] | 
+  [cite_start]<strong>Complete Python Developer 2023</strong> [cite: 65] | 
+  [cite_start]<strong>Digital Marketing (Google)</strong> [cite: 63]
+</div>
 
-### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat)
+<hr>
 
----
-
-## 👀 Profile Views
-![](https://hit.yhype.me/github/profile?user_id=138437760)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RahatVortex98&color=blue" alt="Profile Views"/>
+</div>
