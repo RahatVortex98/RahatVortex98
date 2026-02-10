@@ -7,7 +7,7 @@
 - 🔥 Master of **Python/Django** & **PHP/Laravel** | Expert in REST APIs, PostgreSQL/MySQL, Docker, AWS & Render
 - 🚀 Built production-grade, secure & scalable full-stack systems
 - 🌐 Portfolio → [raisulislam.onrender.com](https://raisulislam.onrender.com)
-- 📧 r072islam@gmail.com • [+880 1812-613387](tel:+8801812613387)
+- 📧 r072islam@gmail.com 
 - 💼 LinkedIn → [md-raisul-islam-085592200](https://www.linkedin.com/in/md-raisul-islam-085592200/)
 
 <hr>
