@@ -3,7 +3,7 @@
 # Hi 👋, I'm MD. Raisul Islam
 <h3>A Backend / Full-Stack Software Engineer from Bangladesh 🇧🇩</h3>
 
-- 👨‍💻 Backend Developer at **Noetic IT** (Oct 2024 – Present)
+- 👨‍💻 Backend Developer 
 - 🔥 Master of **Python/Django** & **PHP/Laravel** | Expert in REST APIs, PostgreSQL/MySQL, Docker, AWS & Render
 - 🚀 Built production-grade, secure & scalable full-stack systems
 - 🌐 Portfolio → [raisulislam.onrender.com](https://raisulislam.onrender.com)
